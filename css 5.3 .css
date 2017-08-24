@@ -1,0 +1,38 @@
+body{
+	background-color: red;
+}
+
+div1, div2{
+	border: 8px solid black;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 100px;
+	font-family:garamond;
+}
+p{
+	position: fixed;
+	top:3px;
+}
+
+div1{
+	margin-left: 50px;
+	margin-top: 400px;
+	position:fixed;
+	top:20px;
+	left:50px;
+}
+div2{
+	margin-left: 300px;
+	margin-top:400px;
+	position: fixed;
+	top:20px;
+	left: 300px;
+}
+
+p2{
+	font-size: 150px;
+	position:relative;
+}
+

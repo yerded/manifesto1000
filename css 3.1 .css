@@ -1,0 +1,20 @@
+p{
+	border: 1px solid black;
+	display: inline-block;
+	right-padding: 100px;
+	left-padding: 100px;
+	top-padding: 100px;
+	bottom-padding: 100px;
+	float: centre;
+}
+
+*{
+	margin-right: 150px;
+	margin-left: 150px;
+	margin-top: 50px;
+	margin-botton: 20px;
+}
+
+div, div1{
+	text-align: center;
+}

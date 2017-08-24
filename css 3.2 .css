@@ -1,0 +1,14 @@
+p{
+	position:fixed;
+	top: 150px; 
+	right: 25%;
+}
+
+h1{
+	float:left;
+	border: 5px solid black;
+	padding: 5px;
+}
+ div{
+ float: right;
+ }
